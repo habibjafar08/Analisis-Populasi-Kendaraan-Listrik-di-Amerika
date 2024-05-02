@@ -9,10 +9,13 @@ Bagaimana dampak kebijakan pemerintah Amerika dengan mengeluarkan anggaran sebes
 ## Link Tableau
 Untuk melihat dashboard klik link berikut [link](https://public.tableau.com/app/profile/habib.jafar.nuur/viz/Dashboardpopulasikendaraanlistrik/Dashboard1?publish=yes).
 
+## Link Medium
+Untuk melihat hasil analisis dan artikel tentang kebijakan pemerintah Amerika terhadap populasi kendaraan listrik di Amerika dapat mengunjungi link berikut [Link](https://medium.com/@habibjafar08/populasi-kendaraan-listrik-di-amerika-e4e54e0b37df)
+
 ## PROJECT ORGANIZATION
 
 Strutur dari project analisis ini yaitu:
 
 ├── README.md <- Menampilkan latar belakang dan pernyataan masalah yang harus dijawab.
 ├── docs <- dokumen berisi presentasi dari dari hasil analisis.
-├── Notebook <- berisi data preparation seblum dilakukan analisis.
+├── Notebook <- berisi data preparation sebelum dilakukan analisis.
